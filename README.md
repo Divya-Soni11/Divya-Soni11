@@ -1,138 +1,140 @@
-## A Very warm Greetings !
+# Hey, I'm Divya 👋
 
-# Hi, I'm Divya Soni 👋
+### Chemical Engineering student | Data Science | AI/ML | Industrial Applications
 
-I'm a Chemical Engineering student at Panjab University interested in the intersection of **chemical processes, AI/ML, data science, and software development**.
+I started with chemical engineering because I wanted to understand **how real processes work**.
 
-I enjoy building practical systems that use data to understand engineering problems, improve decision-making, and automate repetitive work.
+Then I started wondering:
 
-## About Me
+**What if we could use all the data those processes generate to understand them even better?**
 
-- Chemical Engineering student at Panjab University
-- Interested in AI/ML and data science for chemical and industrial applications
-- Experience building ML projects using real industrial process data
-- Software Team Lead at SAE UIET PU
-- Experienced in Python, Scikit-learn, React, JavaScript and full-stack development
-- Interested in applying technology to real engineering problems
+That's what I'm exploring at the intersection of **Chemical Engineering, Data Science and AI/ML**.
 
-## Featured Work
-
-### Anuman — ML-Based RON Soft Sensor
-
-An end-to-end machine learning soft sensor for estimating gasoline product RON from process variables when laboratory measurements are unavailable.
-
-- **325 laboratory samples × 365 process variables**
-- Real industrial refinery process data
-- Random Forest with TimeSeriesSplit
-- **R² = 0.773 | RMSE = 0.385**
-- SHAP-based model interpretation
-- Streamlit dashboard for process-quality monitoring
-
-Repository: [Live Demo : https://anuman-soft-sensor.streamlit.app ]( https://github.com/Divya-Soni11/ANUMAN)
-
-### ML-Based Process Anomaly Detection & Root-Cause Support
-
-An industrial process monitoring system designed to detect abnormal operating conditions and help operators investigate potential causes.
-
-- **35,036 DCS records × 25 process sensors**
-- Unsupervised Isolation Forest
-- Detected **30 anomaly periods**
-- Sensor-level anomaly ranking using z-scores
-- Operator-oriented decision-support layer
-- Identified an axial-displacement signature before a compressor shutdown
-
-Repository: [Project Repository](YOUR_GITHUB_REPOSITORY_LINK)
-
-### AI Research Automation Agent
-
-An AI-powered research tool designed to automate company and placement research and convert scattered information into structured reports.
-
-- Generates structured company reports in **under 1 minute**
-- Reduces manual research effort by **5–6 hours per company**
-- **60+ prompt iterations**
-- Used **140+ times**
-- Average user rating of **4.6/5**
-- Built around AI-agent and prompt-engineering workflows
-
-Repository: [AI Research Agent](YOUR_GITHUB_REPOSITORY_LINK)
-
-### SAE UIET PU — Software Team
-
-Lead the software team responsible for developing and maintaining web-based systems for SAE UIET PU.
-
-- Led a team of junior developers across web, AI/ML and app development
-- Website reached **1,000+ unique users**
-- Developed a recruitment result platform used for **180+ students**
-- Worked with Git/GitHub, React and modern web technologies
-- Mentored juniors through hands-on development projects
-
-Website: [SAE UIET PU](https://saeuietpu.in)
-
-## Skills
-
-### Chemical Engineering
-
-- Material & Energy Balances
-- Heat & Mass Transfer
-- Fluid Mechanics
-- Thermodynamics
-- Distillation
-- Process Design
-- PFD Interpretation
-
-### AI / ML & Data Science
-
-- Python
-- Pandas & NumPy
-- Scikit-learn
-- XGBoost
-- Random Forest
-- Time-Series Cross-Validation
-- SHAP
-- Data Preprocessing
-- Exploratory Data Analysis
-- AI Agents & Prompt Engineering
-
-### Software Development
-
-- React
-- JavaScript
-- HTML / CSS
-- Node.js / Express
-- MongoDB
-- SQL
-- Git & GitHub
-- Streamlit
-- FastAPI
-
-## What I'm Interested In
-
-I'm particularly interested in problems where **engineering knowledge and data science come together** — using process data, machine learning and software to understand industrial systems and support better engineering decisions.
-
-## Beyond Projects
-
-I have participated in multiple hackathons and technical competitions, working across **AI/ML, software development, robotics and engineering applications**.
-
-Some highlights include:
-
-- 🥈 **2nd place — NIT Kurukshetra LFR**
-- 🏆 **Top 15 — Chem-AI-THON 2026**
-- 🚀 **Top 15 — Hack the World, CGC Mohali**
-- 👩‍💻 Software Team Lead — SAE UIET PU
-- 🤖 Google Gemini Student Ambassador
-
-## Why I Build
-
-I like working at the point where **a real engineering problem meets technology**.
-
-Whether it is a chemical process, industrial dataset, AI system or software product, I enjoy understanding the problem first and then building something practical around it.
-
-## Connect
-
-- LinkedIn: [LinkedIn](YOUR_LINKEDIN_LINK)
-- GitHub: [GitHub](YOUR_GITHUB_LINK)
-- Email: sonidivya1011@gmail.com
+I like taking engineering problems that are messy in the real world — process data, quality measurements, equipment behaviour — and turning them into something that can actually be analysed, predicted, or acted upon.
 
 ---
 
-**Chemical Engineering × AI/ML × Software — building practical solutions from real-world problems.**
+## 🔬 What I'm Building
+
+### 🏭 Anuman — ML-Based RON Soft Sensor
+
+**Can we estimate product quality even when the lab result isn't available?**
+
+Anuman uses real industrial refinery data to estimate gasoline product RON from process variables.
+
+- **325 lab samples × 365 process variables**
+- Real industrial process data
+- Random Forest + TimeSeriesSplit
+- **R² = 0.773 | RMSE = 0.385**
+- SHAP-based model interpretation
+- End-to-end Streamlit application
+
+**[📂 Repository](https://github.com/Divya-Soni11/ANUMAN) · [🚀 Live Demo](https://anuman-soft-sensor.streamlit.app)**
+
+---
+
+### ⚙️ Sanket — Process Anomaly Detection & Operator Decision Support
+
+**What if a process starts behaving abnormally before the operator knows exactly what is wrong?**
+
+Sanket analyses DCS data from a refinery centrifugal compressor to detect unusual operating behaviour and highlight the sensors worth investigating.
+
+- **35,036 DCS records × 25 sensors**
+- Unsupervised Isolation Forest
+- **30 anomaly periods detected**
+- Sensor ranking using z-scores
+- Operator-focused decision-support layer
+- Identified an axial-displacement signature before a compressor shutdown
+
+**[📂 Repository](https://github.com/Divya-Soni11/SANKET--Compressor-Anamoly-detection-Operator-Decision-Support) · [🚀 Live Demo](https://sanket-anamoly-detector-operator-decision-supporter.streamlit.app)**
+
+---
+
+### 🤖 AI Research Automation Agent
+
+Not every problem needs a complicated model.
+
+I built an AI agent to automate the boring part of company research — collecting information, structuring it and turning it into a usable report.
+
+- Reports generated in **under 1 minute**
+- Saves **5–6 hours of research per company**
+- **60+ prompt iterations**
+- **140+ uses**
+- **4.6/5 average rating**
+
+**[🤖 Explore the Agent](https://agent.ai/agent/AI_research_uicet_2027)**
+
+---
+
+## 🧪 My Engineering Side
+
+Chemical engineering is still at the centre of what I do.
+
+### Process Engineering
+`Material & Energy Balances` · `Heat & Mass Transfer` · `Fluid Mechanics`  
+`Thermodynamics` · `Distillation` · `Process Design` · `PFD Interpretation`
+
+### Data & AI
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost`  
+`Random Forest` · `SHAP` · `Time-Series CV` · `EDA` · `AI Agents`
+
+### Building & Deploying
+`Streamlit` · `FastAPI` · `React` · `JavaScript`  
+`Node.js` · `SQL` · `MongoDB` · `Git/GitHub`
+
+---
+
+## 🧠 The Kind of Problems I Like
+
+I'm especially interested in questions like:
+
+> **Can process data tell us something we can't directly measure?**
+
+> **Can ML help us notice abnormal behaviour earlier?**
+
+> **Can engineering knowledge make a data-driven model more useful?**
+
+> **Can we turn a model's output into something an engineer can actually use?**
+
+That's the direction I want to explore further — **data science that understands the engineering problem behind the data.**
+
+---
+
+## 🚀 Beyond the Projects
+
+I also enjoy building things with teams, competing in hackathons and learning by doing.
+
+- 🥈 **2nd Place — NIT Kurukshetra LFR**
+- 🏆 **Top 15 — Chem-AI-THON 2026**
+- 🚀 **Top 15 — Hack the World, CGC Mohali**
+- 👩‍💻 **Software Team Lead — SAE UIET PU**
+- 🤖 **Google Gemini Student Ambassador**
+
+As Software Team Lead at SAE UIET PU, I've also worked on web platforms used by **1,000+ users** and a recruitment system serving **180+ students**.
+
+---
+
+## 🌱 What I'm Working Towards
+
+I want to become the kind of engineer who can look at a process and understand **both sides**:
+
+**the engineering behind it and the data coming out of it.**
+
+Chemical engineering gives me the first.
+
+Data science and AI are helping me build the second.
+
+And I'm figuring out how to bring them together — one project at a time.
+
+---
+
+## Let's Connect
+
+💼 [LinkedIn](http://www.linkedin.com/in/divyasoni1011)  
+💻 [GitHub](https://github.com/Divya-Soni11)  
+📧 [sonidivya1011@gmail.com](mailto:sonidivya1011@gmail.com)
+
+---
+
+### **Chemical Engineering × Data Science × AI/ML**
+**Understanding processes. Learning from data. Building useful things.**
