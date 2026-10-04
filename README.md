@@ -1,4 +1,4 @@
-# Hey, I'm Divya 👋
+# Hey, I'm Divya Soni 👋
 
 ### Chemical Engineering student | Data Science | AI/ML | Industrial Applications
 
